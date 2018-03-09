@@ -110,4 +110,5 @@ logs/*
 submissions/*
 models/*.hdf5
 models/MLPNet/*
+models/ConvNets/*
 payload/*.npz
